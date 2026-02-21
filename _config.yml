@@ -13,7 +13,7 @@ title                    : "Yue Sun / Homepage"
 title_separator          : "-"
 name                     : &name "Yue Sun"
 description              : “Academic profile of Yue Sun, focusing on econometrics and economic modeling”
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://leahsun35.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leahsun35/leahsun35.github.io"
