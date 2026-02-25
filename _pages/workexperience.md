@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-permalink: /work/
+permalink: /workexperience/
 ---
 
 Still Loading...
