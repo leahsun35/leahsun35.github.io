@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* M.S. in Economics, Shanghai University of Finance and Economics, 2024 -present
+* B.S. in Economics, Anhui Normal University, 2018 - 2022
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2025 – Oct. 2025: Researcher
+  * Shanghai University of Finance and Economics
+  * Duties included: Computational Tracking of Global Sustainable Development Goals (SDGs).
+  
+  
+* Dec. 2024 – Feb. 2025: Research Assistant
+  * Shanghai University of Finance and Economics
+  * Duties included: Quantifying Global Macro-Sentiment: Linking U.S. Federal Reserve Signals to Chinese Financial Expectations.
+  * Supervisor: Professor Li
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    
+Work Experience
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    
+* Jul. 2022 – Dec. 2022: Editor
+  * Jiangxi Jintaiyang Education Research Co., Ltd.
+  * Duties includes: Conducted rigorous quality control and logical verification for educational manuscripts, ensuring technical accuracy and structural consistency.
+  
+
+* Dec. 2021 – May. 2022: Editorial Assistant Intern
+  * Jiangxi Jintaiyang Education Research Co., Ltd.
+  * Duties included: Assisted the editor in reviewing the authenticity, logic, and coherence of manuscript content.
+  * Supervisor: Jack Peng
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, R, SQL
+* Languages: Mandarin (Native), English (Fluent), Japanese(Elementary).
+
+
 
 Publications
 ======
@@ -61,4 +71,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Apr. 2029 – May. 2021: Vice president
+  * New LeiFeng Volunteer Association
+  * Duties includes: Coordinate and plan volunteer activities and personnel allocation, and cooperate with the school and college in recruiting volunteers for related activities.
+    
+* Jul. 2029 – Apr. 2020: Volunteer
+  * New LeiFeng Volunteer Association
+  * Duties includes: Participate in two volunteer activities per month；Participating in the announcement of online volunteer activities and offline recruitment of personnel.
+
+ 
