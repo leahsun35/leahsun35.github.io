@@ -1,6 +1,6 @@
 ---
 title: "Research Experience"
-permalink: /research/
+permalink: /researchexperience/
 ---
 
 Still Loading...
