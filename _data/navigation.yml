@@ -18,10 +18,10 @@ main:
     url: /publications/
     
   - title: "Research Experience"
-    url: /reserach/
+    url: /reserachexperience/
     
   - title: "Work Experience"
-    url: /work/ 
+    url: /workexperience/ 
 
   # - title: "Teaching"
     url: /teaching/    
