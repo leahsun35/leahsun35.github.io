@@ -1,7 +1,11 @@
 main:
-  - title: "About"
+  - title: "About Me"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /#education
+  - title: "Work Experience"
+    url: /#work-experience
+  - title: "Honors & Awards"
+    url: /#honors-awards
+  - title: "News"
+    url: /#news

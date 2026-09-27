@@ -1,0 +1,35 @@
+/* Homepage accents; retain the theme's light and dark mode text colors. */
+.academic-home { line-height: 1.8; }
+.academic-home .intro-card {
+  padding: 1.5rem;
+  border: 1px solid rgba(88, 126, 181, .25);
+  border-radius: 18px;
+  background: linear-gradient(135deg, rgba(106, 155, 224, .12), rgba(166, 121, 205, .10));
+}
+.academic-home .intro-label {
+  display: block;
+  font-size: .7em;
+  font-weight: 700;
+  letter-spacing: .12em;
+  margin-bottom: 1rem;
+}
+.academic-home h2 { margin-top: 2.2rem; scroll-margin-top: 6rem; }
+.academic-home .profile-card {
+  margin: 1rem 0;
+  padding: 1.1rem 1.4rem;
+  border: 1px solid rgba(128, 128, 128, .2);
+  border-left: 4px solid var(--card-accent);
+  border-radius: 12px;
+  background: var(--card-tint);
+}
+.academic-home .profile-card h3 { margin-top: 0; }
+.academic-home .profile-card > :last-child { margin-bottom: 0; }
+.academic-home .education-card { --card-accent: #648bdd; --card-tint: rgba(100, 139, 221, .07); }
+.academic-home .work-card { --card-accent: #42a89a; --card-tint: rgba(66, 168, 154, .07); }
+.academic-home .awards-card { --card-accent: #d8a13e; --card-tint: rgba(216, 161, 62, .08); }
+.academic-home .news-card { --card-accent: #ad7ccc; --card-tint: rgba(173, 124, 204, .07); }
+.academic-home li { margin-bottom: .65rem; }
+@media (max-width: 600px) {
+  .academic-home .intro-card, .academic-home .profile-card { padding: 1rem; }
+  .academic-home .intro-label { letter-spacing: .06em; }
+}
