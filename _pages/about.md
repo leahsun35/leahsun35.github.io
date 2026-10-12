@@ -93,6 +93,7 @@ Reviewed academic and educational manuscripts for logical consistency, coordinat
 
 <div class="profile-card news-card" markdown="1">
 
+- **October 2026** · Created my WeChat public account, **Leahst Squares**. 💬
 - **July 2026** · Started a business operations internship at Yangzhou Chengyaoying New Energy Technology Co., Ltd. 🔋
 - **February 2026** · Began a research project on bride price and marriage markets in China. 🔍
 - **August 2025** · Started research on tracking global Sustainable Development Goals using news data. 🌍
