@@ -93,6 +93,7 @@ Reviewed academic and educational manuscripts for logical consistency, coordinat
 
 <div class="profile-card news-card" markdown="1">
 
+- **October 2026** · Created a personal [English learning website](https://leahsun35.github.io/gre-ielts-vocab/) for GRE and IELTS vocabulary practice. 📚
 - **October 2026** · Created my WeChat public account, **Leahst Squares**. 💬
 - **July 2026** · Started a business operations internship at Yangzhou Chengyaoying New Energy Technology Co., Ltd. 🔋
 - **February 2026** · Began a research project on bride price and marriage markets in China. 🔍
