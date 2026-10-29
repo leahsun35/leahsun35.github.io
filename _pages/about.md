@@ -1,5 +1,5 @@
 ---
-title: "About Me 👋"
+title: "About Me 😶"
 permalink: /
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 
 <span class="intro-label">ECONOMICS · RESEARCH · CURIOSITY</span>
 
-I am a master's student in Economics at Shanghai University of Finance and Economics, with graduation expected in June 2027. I received my B.Sc. in Economics from Anhui Normal University in 2022.
+Hi 👋, I am a master's student in Economics at Shanghai University of Finance and Economics, with graduation expected in June 2027. I received my B.Sc. in Economics from Anhui Normal University in 2022.
 
 My primary research interests are **labor economics**, **family economics**, particularly marriage and fertility, and **political economy**. I am also interested in urban economics and macroeconomics.
 
